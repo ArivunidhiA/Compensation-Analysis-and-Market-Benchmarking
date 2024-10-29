@@ -1,0 +1,11 @@
+pandas==2.1.0
+numpy==1.24.3
+streamlit==1.27.0
+plotly==5.17.0
+scikit-learn==1.3.0
+requests==2.31.0
+python-dotenv==1.0.0
+pytest==7.4.2
+black==23.7.0
+flake8==6.1.0
+pandas-profiling==3.6.6

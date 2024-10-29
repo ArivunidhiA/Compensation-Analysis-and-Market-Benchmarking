@@ -1,0 +1,18 @@
+compensation_analysis/
+├── data/
+│   └── README.md
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── data_processor.py
+│   ├── models.py
+│   └── visualization.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_loader.py
+│   ├── test_data_processor.py
+│   └── test_models.py
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
